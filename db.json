@@ -1,18 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
   "login":[
 
   ],
   "signup":[
     
   ],
-  "product":[{
+  "product":[
+    {
     "_id": "639dc322276037ae90ae402c",
     "image": "https://cdna.lystit.com/200/250/tr/photos/ssense/4950ca96/skims-Onyx-Soft-Lounge-Maxi-Dress.jpeg",
     "title": "BCBGMAXAZRIA",
@@ -545,15 +539,5 @@
   }],
   "cart":[
 
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
